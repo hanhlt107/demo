@@ -1,0 +1,8 @@
+.test {
+  border: 1px solid transparent;
+}
+.input_fatca:hover,
+.input_fatca:visited {
+  outline: none;
+  border: 1px solid transparent;
+}
